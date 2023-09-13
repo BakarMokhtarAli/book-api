@@ -1,5 +1,5 @@
 # book-api
-The Book API is a simple API that allows you to create, read, update, and delete books. It is built using the Google Books API
+The Book API is a simple API that allows you to create, read, update, and delete books. It is built using the Prisma
 
 Endpoints
 GET api//books - Returns a list of all books.
